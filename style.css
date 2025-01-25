@@ -1,0 +1,31 @@
+body{
+    background-image:url('https://th.bing.com/th/id/R.e959a1af4ba6c5b39ea5854d4090e693?rik=cI6yLC4lErP5WA&riu=http%3a%2f%2f1.bp.blogspot.com%2f_KLJU3hHDGVM%2fTDAfSTFBpJI%2fAAAAAAAACmo%2fYNn5FA6Lai4%2fs1600%2fGhost_horror_House.jpg&ehk=nYLCJ1wbgP%2bvzDSf6z5W4uvBQrT1vzw7lHvmJ1xWxfc%3d&risl=&pid=ImgRaw&r=0');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    display: flex;
+   
+}
+.box{
+    box-sizing: border-box;
+    width:420px;
+    height: 420px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    margin-top: 400px;
+    margin-right: 1000px;
+    
+}
+.box>img{
+    height:150px;
+}
+.heading{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.para{
+    font-size: small;
+}
+
+   
